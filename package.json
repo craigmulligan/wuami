@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "wuami@1.0.0",
+        "scope": null,
+        "escapedName": "wuami",
+        "name": "wuami",
+        "rawSpec": "1.0.0",
+        "spec": "1.0.0",
+        "type": "version"
+      },
+      "/Users/gaudi/Desktop/lotto"
+    ]
+  ],
+  "_from": "wuami@1.0.0",
+  "_id": "wuami@1.0.0",
+  "_inCache": true,
+  "_location": "/wuami",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/wuami-1.0.0.tgz_1494446557165_0.7623636305797845"
+  },
+  "_npmUser": {
+    "name": "craig-mulligan",
+    "email": "craig@resin.io"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "wuami@1.0.0",
+    "scope": null,
+    "escapedName": "wuami",
+    "name": "wuami",
+    "rawSpec": "1.0.0",
+    "spec": "1.0.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wuami/-/wuami-1.0.0.tgz",
+  "_shasum": "dcf770c235fa44653f82193e11768f9cfb98e2bc",
+  "_shrinkwrap": null,
+  "_spec": "wuami@1.0.0",
+  "_where": "/Users/gaudi/Desktop/lotto",
+  "author": {
+    "name": "craig-mulligan"
+  },
+  "bugs": {
+    "url": "https://github.com/craig-mulligan/wuami/issues"
+  },
+  "dependencies": {
+    "axios": "0.16.1"
+  },
+  "description": "wutang name generator",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "dcf770c235fa44653f82193e11768f9cfb98e2bc",
+    "tarball": "https://registry.npmjs.org/wuami/-/wuami-1.0.0.tgz"
+  },
+  "gitHead": "8233c481934276a7b2bdb5a181424fb64f75a45b",
+  "homepage": "https://github.com/craig-mulligan/wuami#readme",
+  "keywords": [
+    "wu-tang"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "craig-mulligan",
+      "email": "craig@resin.io"
+    }
+  ],
+  "name": "wuami",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craig-mulligan/wuami.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
