@@ -4,7 +4,7 @@
   "description": "wutang name generator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/craig-mulligan/wuami/issues"
   },
-  "homepage": "https://github.com/craig-mulligan/wuami#readme"
+  "homepage": "https://github.com/craig-mulligan/wuami#readme",
+  "devDependencies": {
+    "ava": "0.21.0"
+  },
+  "dependencies": {
+    "axios": "0.16.2"
+  }
 }
