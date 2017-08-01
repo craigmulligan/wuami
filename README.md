@@ -6,7 +6,7 @@ npm i wuami
 ```javascript
 const wuami = require('./index');
 
-const name = wuami(author).then(wuName => console.log(wuName));
+const name = wuami('Craig Mulligan').then(wuName => console.log(wuName)); //Shriekin’ Pupil
 ```
 
 ## Thanks
